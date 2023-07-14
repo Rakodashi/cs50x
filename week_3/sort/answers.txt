@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: it had a real time of 039s when compared to Sort2 with 057s and Sort3 with 131s, when running a sorted list, being the fastest of the three.
+
+sort2 uses: Merge sort
+
+How do you know?: It's real time was 064s, compared to Sort1 with 118s and Sort3 with 085s, making it the fastest when sorting an unsorted list.
+
+sort3 uses: Selection sort
+
+How do you know?: It had to be a selection sort based on the previous answers and being the only one who was not so efficient when given the answers of the others.
